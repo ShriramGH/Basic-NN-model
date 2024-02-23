@@ -128,6 +128,17 @@ ai_brain.predict(x_n_n)
 
 ## OUTPUT
 
+
+
+
+
+
+
+
+
+
+
+
 ### Training Loss Vs Iteration Plot
 ![image](https://github.com/Bmohamedathil/basic-nn-model/assets/119560261/12f455ec-b908-4633-98fc-6f355ffb7e9d)
 
