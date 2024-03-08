@@ -102,7 +102,6 @@ ai_brain = Seq([
 ai_brain.compile(optimizer = 'rmsprop',loss = 'mse')
 
 ai_brain.fit(x_train,y_train,epochs=1000)
-ai_brain.fit(x_train,y_train,epochs=1000)
 ```
 ### Plot the Loss:
 
